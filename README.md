@@ -20,6 +20,12 @@ The web prototype shows the redesigned Kivi experience and allows the user to in
 
 The Windows application demonstrates the desktop version of Kivi and its companion experience.
 
+## 🖼️ App Screenshots
+
+The screenshots below show the Kivi application, UI, desktop companion, loading experience, application tour and redesigned interactions.
+
+[View Kivi App Screenshots](https://drive.google.com/file/d/1OSkyprcVW4VB3AjWQ6mWjP50N_ZVBskL/view?usp=sharing)
+
 ---
 
 # Part 1 — Product Position & Vision
