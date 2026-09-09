@@ -10,7 +10,7 @@ Kivi is a communication companion that lives on your desktop and helps people co
 
 ### 🌐 Interactive Web Prototype
 
-[Open Kivi Interactive Prototype](https://kivi-local-desktop-companion--bobbybharath129.replit.app/)
+[Open Kivi Interactive Prototype]https://kivi-local-desktop-companion--bobbybharath129.replit.app
 
 The web prototype shows the redesigned Kivi experience and allows the user to interact with the product.
 
